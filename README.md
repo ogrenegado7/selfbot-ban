@@ -10,7 +10,7 @@ Um bot que bane automáticamente os selfbot do seu servidor!
 `npm i discord.js`
 `npm i chalk`
 
-*  Edite todos os árquivos de configuração 
+*  Edite todos os arquivos de configuração 
 No caso: `config.js` contendo todas as informações! (token, log chats)
 
 *  Inicie o bot
