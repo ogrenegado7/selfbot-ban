@@ -14,6 +14,6 @@ Um bot que bane automáticamente os selfbot do seu servidor!
 No caso: `config.js` contendo todas as informações! (token, log chats)
 
 *  Inicie o bot
-Abre o árquivo `run.bat`
+Abre o arquivo `run.bat`
 
 E está tudo pronto!
